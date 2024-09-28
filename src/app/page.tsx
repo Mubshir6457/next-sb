@@ -13,10 +13,10 @@ export const page = () => {
       </blockquote>
       <figcaption className="font-medium">
         <div className="text-sky-500 dark:text-sky-400">
-          M.Mubashir”
+          M.Mubashir
         </div>
         <div className="text-slate-700 dark:text-slate-500">
-          Staff Engineer, R,Y,k
+          Staff Engineer R.Y.K
         </div>
       </figcaption>
     </div>
