@@ -8,7 +8,7 @@ export const page = () => {
     <div className="pt-9 md:p-8 text-left md:center space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-          “Hlo,I am Mubashir”
+          “Hlo I am Mubashir”
         </p>
       </blockquote>
       <figcaption className="font-medium">
